@@ -1,0 +1,14 @@
+# C++ / VS 编译产物
+Debug/
+x64/
+.vs/
+*.exe
+*.pdb
+*.ilk
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# 系统文件
+.DS_Store
